@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "llm"
+name = "llm-sample"
 version = "0.1.0"
 description = ""
 authors = ["shamada <shamada@jeol.co.jp>"]
@@ -14,6 +14,9 @@ accelerate = "^0.27.2"
 protobuf = "^4.25.3"
 numpy = "^1.26.4"
 
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.2"
 
 [build-system]
 requires = ["poetry-core"]
