@@ -13,10 +13,13 @@ sentencepiece = "^0.1.99"
 accelerate = "^0.27.2"
 protobuf = "^4.25.3"
 numpy = "^1.26.4"
+langchain = "^0.1.9"
 
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.29.2"
+black = "^24.2.0"
+flake8 = "^7.0.0"
 
 [build-system]
 requires = ["poetry-core"]

@@ -10,7 +10,5 @@
   - apache2.0
 - <https://huggingface.co/elyza/ELYZA-japanese-Llama-2-13b-instruct>
   - [llam2](https://github.com/facebookresearch/llama/blob/main/LICENSE)
-- <https://huggingface.co/cyberagent>
-  - license: [cc-by-sa-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-    - Creative commons 系
-    - 多分商用フリー
+
+使ってみたら Swallow 以外まともに英訳してくれないので Swallow を使うことにする
